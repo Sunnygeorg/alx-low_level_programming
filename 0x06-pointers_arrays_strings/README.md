@@ -1,1 +1,1 @@
-My 0x06 Pointers, Arrays and Strings task
+My 0x06 pointers, arrays and strings tasks
